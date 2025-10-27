@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -46,11 +46,10 @@
   <section>
     <h2>Welcome to My Portfolio</h2>
     <p>
-      I’m a passionate network engineer originally from Congo, now based in Cape Town. I specialize in Cisco, Juniper OS, Python, and cybersecurity. I’ve worked aboard ships as a fire preventer and hold multiple certifications including DevNet, Paxton, and Hikvision.
+      I’m a passionate network engineer originally from Congo, now based in South Africa Cape Town. I specialize in Cisco, Juniper OS, Python, and cybersecurity. I’ve worked aboard ships as a fire preventer and hold multiple certifications including DevNet, Paxton, and Hikvision.
     </p>
     <div class="buttons">
       <a href="https://ilunga.github.io" target/a>
       <a href="mailto:ilhan61@gmail.comContact Me</a>
       <a href="https://github.com/ilunga" target="_blank">Gition>
-</body>
-</html>
+
