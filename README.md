@@ -50,6 +50,6 @@
     </p>
     <div class="buttons">
       <a href="https://ilunga.github.io" target/a>
-      <a href="mailto:ilhan61@gmail.comContact Me</a>
+      <a href="mailto:ilungajonathan61@gmail.com Me</a>
       <a href="https://github.com/ilunga" target="_blank">Gition>
 
