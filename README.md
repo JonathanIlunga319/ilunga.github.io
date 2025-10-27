@@ -39,7 +39,7 @@
 </head>
 <body>
   <header>
-    Jonathan Ilunga</h1>
+    JONATHAN ILUNGA CIBANGU
     <p>Network Engineer | Multilingual | Tech Enthusiast</p>
   </header>
 
